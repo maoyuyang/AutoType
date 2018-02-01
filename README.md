@@ -4,6 +4,8 @@
 
 ## demo
 
+![image][./static/img/demo.gif]
+
 ## usage
 
 ```

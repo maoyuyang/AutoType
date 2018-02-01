@@ -2,6 +2,10 @@ import AutoType from './src'
 
 const text = [
   {
+    type: 'wait',
+    time: 2000
+  },
+  {
     type: 'text',
     text: '我不是针对你。'
   },
@@ -76,7 +80,7 @@ const text = [
 const autoType = new AutoType('#content', text, {
   speed: 200,
   end: function () {
-    alert('哈哈，结束咯')
+    console.log('哈哈，结束咯')
   }
 })
 
