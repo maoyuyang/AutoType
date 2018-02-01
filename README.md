@@ -4,7 +4,7 @@
 
 ## demo
 
-![image][./static/img/demo.gif]
+![image](./static/img/demo.gif)
 
 ## usage
 
