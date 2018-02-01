@@ -4,7 +4,7 @@
 
 ## demo
 
-![image](./static/img/demo.gif)
+![image](https://github.com/maoyuyang/AutoType/blob/master/src/static/img/demo.gif)
 
 ## usage
 
